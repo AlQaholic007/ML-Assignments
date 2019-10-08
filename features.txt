@@ -5,3 +5,13 @@ Many of the categorical features such as Address, SellerG,Date sold,Type and Sub
 
 Initially some suburbs showed high mean price for houses such as South Metropolitan, but other suburbs showed very poor correlation with Price
 Hence all of the categorical attributes were eliminated on the account of them not having major impact on the target
+
+Features considered were:
+1.Rooms
+2.Landsize
+3.Bathrooms
+4.BuildingArea
+5.Distance
+6.Lattitude
+7.Longtitude
+8.Propertycount
