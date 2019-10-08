@@ -1,0 +1,7 @@
+From this assignment, initially I tried to visualize both categorical as well as non categorical variables against each other and see their impact on my prediction target namely, the price.
+Initially it seemed that some of the feature would have much impact on the target.
+However consider that Postcode almost related to Lattitude and Longitude,BuildingArea and Landsize share similar relations too,those were eliminated.
+Many of the categorical features such as Address, SellerG,Date sold,Type and Suburb were eliminated
+
+Initially some suburbs showed high mean price for houses such as South Metropolitan, but other suburbs showed very poor correlation with Price
+Hence all of the categorical attributes were eliminated on the account of them not having major impact on the target
